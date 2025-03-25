@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: curso-php-midu
+owner: helmy-code
+package: .
+scaling:
+  mode: single_concurrency
